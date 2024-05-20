@@ -4,6 +4,7 @@ const sequelize = require('../config/connection');
 
 class ProductTag extends Model { }
 
+// set up of fields and rules for ProductTag model : Many To Many mapping table
 ProductTag.init(
   {
     id: {
@@ -13,6 +14,7 @@ ProductTag.init(
       autoIncrement: true,
     },
     product_id: {
+      //Foreign Key referencing the product table id
       type: DataTypes.INTEGER,
       references: {
         model: 'product',
@@ -20,6 +22,7 @@ ProductTag.init(
       },
     },
     tag_id: {
+      //Foreign Key referencing the tag table id
       type: DataTypes.INTEGER,
       references: {
         model: 'tag',
