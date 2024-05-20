@@ -52,7 +52,7 @@ https://github.com/shwetakadam5/retail-ecommerce
 
 **Link for the functionality demo :**
 Quick Demo (Important):
-
+https://drive.google.com/file/d/19ODzuiDKiA1cmPBUMXx-LovPZ6v3pNkF/view?usp=sharing
 
 
 ## UsageAndTest Screenshots :
@@ -61,9 +61,82 @@ Quick Demo (Important):
 
 ![Image Unavailable](./assets/images/01_retail_ecomm_ERD.jpg) 
 
-#### 2. ****Retail E-commerce : :****
+#### 2. ****Retail E-commerce : View Categories:****
 
-![Image Unavailable](./assets/images/) 
+![Image Unavailable](./assets/images/02_retail_ecom_viewAllCategories.jpg) 
+
+#### 3. ****Retail E-commerce : View Category By Id:****
+
+![Image Unavailable](./assets/images/03_retail_ecom_viewCategoryById.jpg) 
+
+#### 4. ****Retail E-commerce : Create New Category****
+
+![Image Unavailable](./assets/images/05_retail_ecom_CreateNewCategory.jpg) 
+
+#### 5. ****Retail E-commerce : Update Category By Id:****
+
+![Image Unavailable](./assets/images/06_retail_ecom_UpdateCategory.jpg) 
+
+#### 6. ****Retail E-commerce : Delete Category By Id:****
+
+![Image Unavailable](./assets/images/07_retail_ecom_DeleteCategory.jpg) 
+
+#### 7. ****Retail E-commerce : View Products:****
+
+![Image Unavailable](./assets/images/08_retail_ecom_getproducts.jpg) 
+
+#### 8. ****Retail E-commerce : View Product By Id:****
+
+![Image Unavailable](./assets/images/09_retail_ecom_getproductsbyid.jpg) 
+
+#### 9. ****Retail E-commerce : Create New Product:****
+
+![Image Unavailable](./assets/images/010_retail_ecom_CreateProduct.jpg) 
+
+#### 10. ****Retail E-commerce : Update Product By Id:****
+
+![Image Unavailable](./assets/images/011_retail_ecom_UpdateProductById.jpg) 
+
+#### 11. ****Retail E-commerce : Delete Product By Id:****
+
+![Image Unavailable](./assets/images/013_retail_ecom_DeleteProductByid.jpg)
+
+#### 12. ****Retail E-commerce : View Tags:****
+
+![Image Unavailable](./assets/images/014_retail_ecom_gettags.jpg) 
+
+#### 13. ****Retail E-commerce : View Tag By Id:****
+
+![Image Unavailable](./assets/images/015_retail_ecom_gettagbyid.jpg) 
+
+#### 14. ****Retail E-commerce : Create New Tag:****
+
+![Image Unavailable](./assets/images/016_retail_ecom_CreateTag.jpg) 
+
+#### 15. ****Retail E-commerce : Update Tag By Id:****
+
+![Image Unavailable](./assets/images/017_retail_ecom_UpdateTagById.jpg) 
+
+#### 16. ****Retail E-commerce : Delete Tag By Id:****
+
+![Image Unavailable](./assets/images/018_retail_ecom_DeleteTagById.jpg) 
+
+#### 17. ****Retail E-commerce : Error Message : View Category By Id:****
+
+![Image Unavailable](./assets/images/04_retail_ecom_viewCategoryById_Error.jpg) 
+
+#### 18. ****Retail E-commerce : Error Message : View Product By Id:****
+
+![Image Unavailable](./assets/images/020_retail_ecom_viewProductById_Error.jpg) 
+
+#### 19. ****Retail E-commerce : Error Message : View Tag By Id:****
+
+![Image Unavailable](./assets/images/019_retail_ecom_viewTagById_Error.jpg) 
+
+#### 20. ****Retail E-commerce : Error Message : Create New Product Validations:****
+
+![Image Unavailable](./assets/images/012_retail_ecom_CreateProduct_ValidationError.jpg) 
+
 
 
 
